@@ -14,3 +14,4 @@ data portfolio for data analyst role
 - Essential  Python for Data Analyst
 - Dashboard
 
+Here's my LinkedIn account : https://www.linkedin.com/in/thapanee-jai/ 
